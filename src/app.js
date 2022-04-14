@@ -4,7 +4,7 @@ Author: Tolnai Levente
 Copyright: 2022, Tolnai Levente
 Group: Szoft 1/2/E
 Date: 2022-04-14
-Github: https://github.com/sajat/
+Github: https://github.com/levitolnai/oktogon
 Licenc: GNU GPL
 */
 
